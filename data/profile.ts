@@ -75,7 +75,7 @@ export const projects: Project[] = [
       "Modo privacidad y bloqueo por PIN.",
       "CI/CD en Vercel con despliegue continuo desde Git.",
     ],
-    repo: "https://github.com/LacruzJSDev",
+    repo: "https://github.com/LacruzJSDev/FinanzApp",
   },
   {
     slug: "gestion-citas",
@@ -92,7 +92,7 @@ export const projects: Project[] = [
       "Lógica de negocio de disponibilidad y solapamiento de citas.",
       "Stack políglota: TypeScript en frontend, Java en backend.",
     ],
-    repo: "https://github.com/LacruzJSDev",
+    repo: "https://github.com/LacruzJSDev/ment-time-app-nextjs",
   },
   {
     slug: "planificador-actividades",
@@ -109,7 +109,7 @@ export const projects: Project[] = [
       "API REST en Express con Node.js.",
       "Gestión de calendario y planificación semanal de actividades.",
     ],
-    repo: "https://github.com/LacruzJSDev",
+    repo: "https://github.com/LacruzJSDev/resiadminfront",
   },
   {
     slug: "portafolio",
@@ -127,7 +127,7 @@ export const projects: Project[] = [
       "Una sola fuente de datos tipada para HTML y API.",
       "Sin librerías de animación: CSS moderno y poco JavaScript.",
     ],
-    repo: "https://github.com/LacruzJSDev",
+    repo: "https://github.com/LacruzJSDev/portafolioV2",
   },
 ];
 
