@@ -7,7 +7,7 @@ Portafolio personal construido como un **sistema en producción**: la experienci
 El portafolio expone su propia **API REST pública y versionada**:
 
 ```bash
-curl https://lacruzjsdev.vercel.app/api/v1/profile
+curl https://portafolio-nine-sable.vercel.app/api/v1/profile
 ```
 
 Endpoints: `/api/v1` · `/api/v1/profile` · `/api/v1/experience` · `/api/v1/projects` · `/api/v1/stack`

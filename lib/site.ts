@@ -4,7 +4,7 @@
  * y todo el SEO (canonical, sitemap, OG, JSON-LD) se actualiza solo.
  */
 export const site = {
-  url: "https://lacruzjsdev.vercel.app",
+  url: "https://portafolio-nine-sable.vercel.app",
   name: "Juan Carlos Lacruz — Desarrollador Full Stack",
   shortName: "lacruz.dev",
   description:
