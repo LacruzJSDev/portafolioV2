@@ -1,0 +1,10 @@
+/* EQUIPO */
+Desarrollador: Juan Carlos Lacruz Lacruz
+Ubicación: Valencia, España
+Contacto: jclacruzlacruz@icloud.com
+GitHub: https://github.com/LacruzJSDev
+
+/* SITIO */
+Stack: Next.js, TypeScript, Tailwind CSS
+Hecho a mano, sin plantillas.
+¿Sabías que este sitio tiene API pública? → /api/v1
